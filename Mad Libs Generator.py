@@ -1,0 +1,5 @@
+name = input("write your name: ")
+age = int(input("write your age: "))
+sport = input("write your favorate sport: ")
+story = ("hello my name is " + name + " iam " + str(age) + " years old " + "my favorite sport is " + sport  )
+print(story)
